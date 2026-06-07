@@ -10,9 +10,9 @@
 ## 🚀 About Me
 
 - 🔭 Currently Developing **SPYxHUB**
-- 🌱 Learning **React, Next.js, Golang**
+- 🌱 Continuously learning new technologies
 - 💻 Developing **Website & Roblox Scripts**
-- ⚡ Interested in **Automation, UI/UX, and Full Stack Development**
+- ⚡ Interested in **Full Stack Development, UI/UX, and Automation**
 
 ---
 
@@ -41,12 +41,12 @@
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
 
-### Tools & Methods
+### Tools
 <p>
-  <img src="https://img.shields.io/badge/REST_API-009688?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Deployment-0A0A0A?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/Accessibility-005FCC?style=for-the-badge" />
 </p>
 
 ---
@@ -62,7 +62,10 @@
 ## 🌐 Connect With Me
 
 <p align="left">
-  <a href="https://github.com/indomieee">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github">
+  <a href="https://muhammadaldi.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="https://github.com/indomieee" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
